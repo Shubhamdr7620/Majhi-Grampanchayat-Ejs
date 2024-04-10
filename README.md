@@ -1,2 +1,10 @@
 # Majhi-Grampanchayat-Ejs
-This Is Web Based Appllication Made Using Express And EJS Template. This website which can be used to manage all village activity like Make Compalint , Send Service Request , View News and Acivities in the village and many more
+This website is made using express.js and ejs template engine to run this project use following commands in terminal 
+npm init -y
+npm install node
+npm install express 
+npm install ejs
+npm install mongoose 
+npm install body-parser
+
+ //MongoDB Database is used 
